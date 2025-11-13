@@ -9,7 +9,7 @@
 
 ## Результаты
 
-![Сравнение алгоритмов](graphs_images/sorting_analysis.png)
+![Сравнение алгоритмов](graphs_images/algorithm_analysis.png)
 
 ## Выводы
 
